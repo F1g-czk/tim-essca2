@@ -1,6 +1,14 @@
-# Java Notebook
+# Notre projet Java - ESSCA 
 
-A github repository to easily start a codespace to play with java notebooks.
+## Exercice : Affichage de dés
+
+Atelier réalisé par Armaël et Timothé 
+Code dans le fichier `hello.ipynb`
+
+---
+
+# Java Notebook
+...
 
 ## Getting started
 
